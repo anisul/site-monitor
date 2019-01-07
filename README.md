@@ -1,5 +1,5 @@
 # site-monitor
-A command line Java application to monitor websites. Websites max/average response time, availability is monitored. If availability of website goes down under 80%, alert is logged in console. Recovery alert is logged when availability goes to 80% or above.
+Application to monitor websites. Websites' max/average response time, availability is monitored. If availability of website goes down under 80%, alert is logged in console. Recovery alert is logged when availability goes to 80% or above.
 
 
 
